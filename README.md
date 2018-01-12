@@ -1,0 +1,3 @@
+# ElasticSearchApi
+
+用来给Web端执行调用的api接口，主要作用是通过Web端提供的查询对象，构建ElasticSearch查询表达式，并将表达式传输到ElasticSearch中进行查询，并获取对应查询信息结果集
